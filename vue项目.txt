@@ -1,0 +1,15 @@
+vue 创建
+1，vue create XXX
+2，vue ui
+ndoe：文件依赖包
+public：入口文件
+src：主代码文件
+    assets：图片
+    components：主键
+            主键为三块，上只能有一个根节点
+    app:根主键
+    main：主入口配置
+babel：文件编译，浏览器适应
+package:环境依赖
+yarn start
+yarn serve
